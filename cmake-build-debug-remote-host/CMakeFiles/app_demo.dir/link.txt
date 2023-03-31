@@ -1,0 +1,1 @@
+arm-buildroot-linux-gnueabihf-gcc -g CMakeFiles/app_demo.dir/Sources/main.c.o CMakeFiles/app_demo.dir/Sources/display_manage.c.o CMakeFiles/app_demo.dir/Sources/framebuffer.c.o -o app_demo 

@@ -1,0 +1,4 @@
+/home/book/apps/cmake-3.24.0-linux-x86_64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/home/book/100ask_imx6ull-sdk/ToolChain/gcc-linaro-6.2.1-2016.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc -DCMAKE_CXX_COMPILER=/home/book/100ask_imx6ull-sdk/ToolChain/gcc-linaro-6.2.1-2016.11-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-g++ -S /home/book/c_lion_remote -B /home/book/c_lion_remote/cmake-build-debug-remote-host
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/book/c_lion_remote/cmake-build-debug-remote-host
